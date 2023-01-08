@@ -1,5 +1,5 @@
 # TMN.IPYNB
-  ## IMPLEMENTATION OF THE TRUNCATED NEWTON METHOD 
+  ### IMPLEMENTATION OF THE TRUNCATED NEWTON METHOD 
 
   The aim of this project is to solve an uncostrained optimization problem by applying the **Truncated Newton Algorithm**.
 
